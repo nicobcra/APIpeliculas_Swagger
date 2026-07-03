@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nicolas.becerra\\Desktop\\Api_Curso\\APIpeliculas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7BE4742D-FC39-4068-86DA-6CEBFA664D42}|APIpeliculas\\APIpeliculas.csproj|c:\\users\\nicolas.becerra\\desktop\\api_curso\\apipeliculas\\apipeliculas\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7BE4742D-FC39-4068-86DA-6CEBFA664D42}|APIpeliculas\\APIpeliculas.csproj|solutionrelative:apipeliculas\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BE4742D-FC39-4068-86DA-6CEBFA664D42}|APIpeliculas\\APIpeliculas.csproj|c:\\users\\nicolas.becerra\\desktop\\api_curso\\apipeliculas\\apipeliculas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BE4742D-FC39-4068-86DA-6CEBFA664D42}|APIpeliculas\\APIpeliculas.csproj|solutionrelative:apipeliculas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\nicolas.becerra\\Desktop\\Api_Curso\\APIpeliculas\\APIpeliculas\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "APIpeliculas\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\nicolas.becerra\\Desktop\\Api_Curso\\APIpeliculas\\APIpeliculas\\Properties\\launchSettings.json",
+              "RelativeToolTip": "APIpeliculas\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-07-03T15:38:25.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nicolas.becerra\\Desktop\\Api_Curso\\APIpeliculas\\APIpeliculas\\Program.cs",
+              "RelativeDocumentMoniker": "APIpeliculas\\Program.cs",
+              "ToolTip": "C:\\Users\\nicolas.becerra\\Desktop\\Api_Curso\\APIpeliculas\\APIpeliculas\\Program.cs",
+              "RelativeToolTip": "APIpeliculas\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-03T15:35:51.892Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
